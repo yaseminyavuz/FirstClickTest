@@ -1,14 +1,18 @@
 # Insider_TechHubQA_IlkOtomasyon
-**Projenin Amacı:** 
 
-Selenium ile temel bir web otomasyonu gerçekleştirmek. 
-Tarayıcı üzerinde manuel bir işlem gerçekleştiriliyormuş gibi bir izlenim yaratmak. 
-Google üzerinde "useinsider youtube" sorgusunu çalıştırıp, sonuçlardan "Insider - YouTube" başlıklı olan ilk sonucun tıklanması ve doğru sayfanın açıldığını doğrulamak.
+**Proje Özeti:**
+Bu projede Selenium kullanarak temel bir web otomasyonu gerçekleştirdim. Amaç, tarayıcı üzerinde manuel bir işlem yapılıyormuş gibi bir izlenim yaratmaktı.
+
+**Yapılan İşlemler:**
+✅ Selenium ile Google açıldı.
+✅ "useinsider youtube" sorgusu çalıştırıldı.
+✅ Çıkan sonuçlar arasından "Insider - YouTube" başlıklı ilk sonuç tıklandı.
+✅ Doğru sayfanın açıldığı başarıyla doğrulandı.
 
 **Projede Kullanılan Teknolojiler:**
 
-✅ Python
+🚀 Python
 
-✅ Selenium
+🚀 Selenium
 
-✅ Chrome WebDriver
+🚀 Chrome WebDriver
