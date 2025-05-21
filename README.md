@@ -1,4 +1,4 @@
-# Insider_TechHubQA_IlkOtomasyon
+# FirstClickTest
 
 **Proje Özeti:**
 Bu projede Selenium kullanarak temel bir web otomasyonu gerçekleştirdim. Amaç, tarayıcı üzerinde manuel bir işlem yapılıyormuş gibi bir izlenim yaratmaktı.
